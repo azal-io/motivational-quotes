@@ -1,6 +1,6 @@
 module MotivationalQuotes
   class Generate
-    def random
+    def self.random
       'Life is good'
     end
   end
