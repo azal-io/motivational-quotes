@@ -1,7 +1,7 @@
-mod
+module MotivationalQuotes
   class Generate
     def self.random
-      'here will be random quotes'
+      'fix'
     end
   end
 end
